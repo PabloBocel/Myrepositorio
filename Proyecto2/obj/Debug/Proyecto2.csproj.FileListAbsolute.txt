@@ -1,8 +1,0 @@
-D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
-D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
-D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
-D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
-D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.SuggestedBindingRedirects.cache
-D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
-D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
-D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
