@@ -1,0 +1,8 @@
+D:\Universidad\Primer ciclo\Intro a progra\Trabajo superisado progra\Github\Ts13_PABM_1109623\bin\Debug\Ts13_PABM_1109623.exe.config
+D:\Universidad\Primer ciclo\Intro a progra\Trabajo superisado progra\Github\Ts13_PABM_1109623\bin\Debug\Ts13_PABM_1109623.exe
+D:\Universidad\Primer ciclo\Intro a progra\Trabajo superisado progra\Github\Ts13_PABM_1109623\bin\Debug\Ts13_PABM_1109623.pdb
+D:\Universidad\Primer ciclo\Intro a progra\Trabajo superisado progra\Github\Ts13_PABM_1109623\obj\Debug\Ts13_PABM_1109623.csproj.AssemblyReference.cache
+D:\Universidad\Primer ciclo\Intro a progra\Trabajo superisado progra\Github\Ts13_PABM_1109623\obj\Debug\Ts13_PABM_1109623.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\Primer ciclo\Intro a progra\Trabajo superisado progra\Github\Ts13_PABM_1109623\obj\Debug\Ts13_PABM_1109623.csproj.CoreCompileInputs.cache
+D:\Universidad\Primer ciclo\Intro a progra\Trabajo superisado progra\Github\Ts13_PABM_1109623\obj\Debug\Ts13_PABM_1109623.exe
+D:\Universidad\Primer ciclo\Intro a progra\Trabajo superisado progra\Github\Ts13_PABM_1109623\obj\Debug\Ts13_PABM_1109623.pdb
